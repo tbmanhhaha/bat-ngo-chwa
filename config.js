@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'OG17 iu thương àk!',
-    introDesc: `EM BIẾT EM NHỚ OG LẮM KHÔNG HUHUHUHUHU`,
+    introDesc: `OG BIẾT EM NHỚ OG LẮM KHÔNG HUHUHUHUHU`,
     btnIntro: 'Tất nhiên là biết!',
     title: 'mọi người cũng nhớ em đúng không',
     desc: 'hohohohohohohoho',
