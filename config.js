@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Hí hí tuyệt vời 10/10',
     messDesc: 'Và giờ đến tiết mục quan trọng',
     btnAccept: 'Hí ',
-    messLink: 'https://youtu.be/61uiAkRRuUI'
+    messLink: 'https://youtu.be/KLrK-BcTKDc'
 }
